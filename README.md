@@ -37,7 +37,7 @@
 
  ## OUTPUT
 
-<img width="511" alt="project 1 2 pro" src="https://github.com/user-attachments/assets/ee4c0bfb-4874-4998-9b9c-e9c08e5ddd87">
+![edm 1 2](https://github.com/user-attachments/assets/a0674068-13e6-456a-b9cf-fbad9432f125)
 
  
  ## RESULT
