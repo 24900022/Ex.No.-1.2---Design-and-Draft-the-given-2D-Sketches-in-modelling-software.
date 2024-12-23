@@ -37,7 +37,8 @@
 
  ## OUTPUT
 
-![edm 1 2](https://github.com/user-attachments/assets/a0674068-13e6-456a-b9cf-fbad9432f125)
+![Screenshot 2024-12-23 091222](https://github.com/user-attachments/assets/16f66e24-1264-4941-877c-53b197c498e1)
+
 
  
  ## RESULT
